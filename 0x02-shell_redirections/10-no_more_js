@@ -1,2 +1,2 @@
 #!/bin/bash
-rm $(find . -name "*.js")
+unlink $(find . -name "*.js")
